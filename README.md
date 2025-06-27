@@ -17,11 +17,18 @@
 - **API Integration** – Communicates with a backend to generate and fetch AI images
 
 ## 📸 Screenshots
-_Add screenshots here (example):_
-![Prompt Entry UI](assets/icon1.png)
-![Prompt MainScreen](assets/mainscreen.png)
-![Prompt Image Generated](assets/prompt1.png)
-![Prompt Image Generated](assets/prompt2.png)
+### Icon & Home Screen
+<div>
+<img src="https://github.com/kundan-ksr/pixelscape/blob/main/lib/assets/icon1.png" alt="Icon" width="300" height="300" style="margin-right: 40px, margin-bottom : 30px"> 
+   &nbsp&nbsp&nbsp&nbsp
+<img src="https://github.com/kundan-ksr/pixelscape/blob/main/lib/assets/mainscreen.png" alt="Main Screen" width="300" height="600">  
+</div>
+
+### Prompt Generated
+<div>
+<img src="https://github.com/kundan-ksr/pixelscape/blob/main/lib/assets/prompt1.png" alt="Searched Image" width="300" height="600" style="margin-right: 40px;"> &nbsp&nbsp&nbsp&nbsp
+<img src="https://github.com/kundan-ksr/pixelscape/blob/main/lib/assets/prompt2.png" alt="Set wallpaper" width="300" height="600" style="margin-left: 70px;">  
+</div>
 
 ## 📚 Setup and Installation
 
