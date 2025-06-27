@@ -28,20 +28,25 @@ _Add screenshots here (example):_
 git clone https://github.com/kundan-ksr/imagino-ai.git
 cd imagino-ai
 ```
-2. **Install Dependencies**
-   Ensure you have Flutter installed. Run the following commands:
+### 📦 Install Dependencies
+Make sure you have Flutter installed. Then run:
+
    ```bash
    flutter pub get
+   ```
 
-3. **Set Up API Integration**
+### Set Up API Integration
    Update the API URL or settings in the code if necessary to fetch dynamic wallpapers.
 
-4. **Run the App**
-   Launch the app on an emulator or physical device:
+### ⚙️ Run the App
+To launch the app on an emulator or physical device:
+
    ```bash
    flutter run
-
+   ```
 ## 📁 Project Structure
+
+```
 imagino-ai/
 ├── lib/                   # Source files, UI, and logic
 ├── assets/                # Images, UI assets, and placeholders
@@ -52,7 +57,7 @@ imagino-ai/
 ├── windows/               # Windows (if enabled)
 ├── pubspec.yaml           # Flutter dependencies and assets
 └── README.md              # Project documentation
-
+```
 ## 🤝 Contributing
 Contributions are welcome! If you have suggestions or want to enhance features, feel free to open an issue or submit a pull request.
 
