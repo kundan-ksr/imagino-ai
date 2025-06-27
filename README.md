@@ -18,7 +18,7 @@
 
 ## 📸 Screenshots
 _Add screenshots here (example):_
-![Prompt Entry UI](assets/screenshots/prompt_screen.png)
+![Prompt Entry UI](assets/icon1.png)
 ![Generated Image](assets/screenshots/generated_image.png)
 
 ## 📚 Setup and Installation
