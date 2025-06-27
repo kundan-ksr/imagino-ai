@@ -19,15 +19,15 @@
 ## 📸 Screenshots
 ### Icon & Home Screen
 <div>
-<img src="https://github.com/kundan-ksr/pixelscape/blob/main/lib/assets/icon1.png" alt="Icon" width="300" height="300" style="margin-right: 40px, margin-bottom : 30px"> 
+<img src="https://github.com/kundan-ksr/imagino-ai/blob/main/assets/icon1.png" alt="Icon" width="300" height="300" style="margin-right: 40px, margin-bottom : 30px"> 
    &nbsp&nbsp&nbsp&nbsp
-<img src="https://github.com/kundan-ksr/pixelscape/blob/main/lib/assets/mainscreen.png" alt="Main Screen" width="300" height="600">  
+<img src="https://github.com/kundan-ksr/imagino-ai/blob/main/assets/mainscreen.png" alt="Main Screen" width="300" height="600">  
 </div>
 
 ### Prompt Generated
 <div>
-<img src="https://github.com/kundan-ksr/pixelscape/blob/main/lib/assets/prompt1.png" alt="Searched Image" width="300" height="600" style="margin-right: 40px;"> &nbsp&nbsp&nbsp&nbsp
-<img src="https://github.com/kundan-ksr/pixelscape/blob/main/lib/assets/prompt2.png" alt="Set wallpaper" width="300" height="600" style="margin-left: 70px;">  
+<img src="https://github.com/kundan-ksr/imagino-ai/blob/main/assets/prompt1.png" alt="Searched Image" width="300" height="600" style="margin-right: 40px;"> &nbsp&nbsp&nbsp&nbsp
+<img src="https://github.com/kundan-ksr/imagino-ai/blob/main/assets/prompt2.png" alt="Set wallpaper" width="300" height="600" style="margin-left: 70px;">  
 </div>
 
 ## 📚 Setup and Installation
